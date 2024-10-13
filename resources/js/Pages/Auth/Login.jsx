@@ -6,7 +6,7 @@ const Login = () => {
   return (
     <div className="flex min-h-screen bg-white dark:bg-gray-900">
       <div className="flex flex-col md:flex-row w-full max-w-6xl mx-auto overflow-hidden ">
-        <div className="flex-1 p-8 space-y-6">
+        <div className="flex-1 p-8 space-y-6 my-16 py-24">
           <div className="flex items-center space-x-2">
             <Star className="w-6 h-6 text-gray-500" />
             <span className="text-2xl font-bold">Wiko</span>
